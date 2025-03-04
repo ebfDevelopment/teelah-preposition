@@ -1,0 +1,20 @@
+{
+    "name": "teelah/prepositions",
+    "description": "Simples api para gera preposições",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Edivan B. Fontes",
+            "email": "ebezerradevelopment@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Teelah\\Prepositios\\" : "src"
+        }
+    },
+    "require": {
+        "php": ">=7.4"
+    }
+}
