@@ -3,6 +3,7 @@
     "description": "Simples api para gera preposições",
     "type": "library",
     "license": "MIT",
+    "version": "1.0.0",
     "authors": [
         {
             "name": "Edivan B. Fontes",
